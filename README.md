@@ -1,4 +1,4 @@
- 🌦️ WeatherSense-ML
+# 🌦️ WeatherSense-ML
 ### End-to-End Humidity Prediction | ISRO Weather Station, Red Fort Delhi
 
 An end-to-end machine learning pipeline that predicts humidity levels (Dry / Moderate / Humid) from real ISRO weather sensor data using the EM Algorithm and Bayesian Network.
